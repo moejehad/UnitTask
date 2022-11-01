@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unit One Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="textOne">Join us , and enjoy all services</string>
+    <string name="textTwo">Sign in if you have an account</string>
+    <string name="signUp">Sign Up</string>
+
+    <string name="loginMobileText">Login using mobile number OTP</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="sendButton">Send Code</string>
+    <string name="otherMethod">Using other methods</string>
+</resources>
